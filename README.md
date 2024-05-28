@@ -2,7 +2,7 @@
 ### Passionate Back-End Developer
 ---
 #### Stats
-[![Jeong Seop's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinSub98&include_all_commits=true&&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+[![Jeong Seop's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinSub98&include_all_commits=true&&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/jiholee0/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinSub98&layout=compact)
 ---
 #### Languages and Tools
