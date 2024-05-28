@@ -16,7 +16,7 @@
 
 
 #### My portfolio on Notion 
-🇰🇷KOR : **In Progress**
+🇰🇷KOR : **In Progress** <br>
 🇯🇵JPN : [https://dune-syzygy-abc.notion.site/08d62f39269141a99254ed9114a40e2d?pvs=4](https://dune-syzygy-abc.notion.site/08d62f39269141a99254ed9114a40e2d?pvs=4)
 
 ---
