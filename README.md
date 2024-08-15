@@ -1,4 +1,4 @@
-# Shin Jeong Seop
+# Shin Jeong Sub
 ### Passionate Back-End Developer
 ---
 #### Stats
