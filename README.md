@@ -17,7 +17,7 @@
 
 #### My portfolio on Notion 
 🇰🇷KOR : [https://dune-syzygy-abc.notion.site/176a5e3502de80d1b859ee015596de48](https://dune-syzygy-abc.notion.site/176a5e3502de80d1b859ee015596de48) <br>
-🇯🇵JPN : [https://dune-syzygy-abc.notion.site/08d62f39269141a99254ed9114a40e2d?pvs=4](https://dune-syzygy-abc.notion.site/08d62f39269141a99254ed9114a40e2d?pvs=4)
+🇯🇵JPN : [https://dune-syzygy-abc.notion.site/08d62f39269141a99254ed9114a40e2d?pvs=74](https://dune-syzygy-abc.notion.site/08d62f39269141a99254ed9114a40e2d?pvs=74)
 
 ---
 #### ETC
